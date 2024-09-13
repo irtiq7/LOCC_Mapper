@@ -1,4 +1,5 @@
-## LOCC_Mapper: **Line of Code and Connectivity (LOCC) Mapper**: Visualize, Analyze, and Map File Relationships in Your Codebase
+## LOCC_Mapper: **Line of Code and Connectivity (LOCC) Mapper**
+Visualize, Analyze, and Map File Relationships in Your Codebase
 
 **Introducing LOCC Mapper**, the ultimate tool for developers and teams to gain deep insights into their codebases. Whether you’re working on a small project or managing a large-scale application, LOCC Mapper is designed to help you understand and optimize your code structure effortlessly. 
 
