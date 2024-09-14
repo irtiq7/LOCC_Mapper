@@ -1,0 +1,1 @@
+Make it executable with chmod +x locc.sh, and run it with ./locc.sh "directory".
