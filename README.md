@@ -28,3 +28,28 @@ Visualize, Analyze, and Map File Relationships in Your Codebase
 Join the community of developers who are transforming their workflow with LOCC Mapper. Try it out today and take your code analysis to the next level!
 
 ![File Relationship Mapping](https://github.com/irtiq7/LOCC_Mapper/blob/main/image/file_relationship.png)
+
+### Bash
+
+'''
+git clone https://github.com/irtiq7/LOCC_Mapper.git
+'''
+
+Locate Bash folder and make it executable with 
+'''
+chmod +x locc.sh
+'''
+
+and run it with 
+
+'''
+./locc.sh "directory"
+'''
+
+### Python
+
+A GUI based on tkinter is made which can be obtained
+
+'''
+python LOCC_Mapper.py
+'''
