@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/irtiq7/LOCC_Mapper/blob/main/image/logo.png" alt="LOCC_MAPPER" height="500" width="500">
+</p>
+
+
 ## LOCC_Mapper: **Line of Code and Connectivity (LOCC) Mapper**
 Visualize, Analyze, and Map File Relationships in Your Codebase
 
